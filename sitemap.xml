@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lionel-hub.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-08-05T19:41:39.810Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lionel-hub.github.io/friends/index.html</loc>
     
     <lastmod>2020-08-05T19:41:39.810Z</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://lionel-hub.github.io/contact/index.html</loc>
-    
-    <lastmod>2020-08-05T19:41:39.810Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lionel-hub.github.io/categories/index.html</loc>
     
     <lastmod>2020-08-05T19:41:39.810Z</lastmod>
     
