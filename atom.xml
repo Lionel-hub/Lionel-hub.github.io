@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lionel-hub.github.io/"/>
-  <updated>2020-08-09T18:09:54.383Z</updated>
+  <updated>2020-08-09T18:12:44.750Z</updated>
   <id>https://lionel-hub.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://lionel-hub.github.io/2020/08/05/qu-kuai-lian-ji-zhu-bi-ji-01/"/>
     <id>https://lionel-hub.github.io/2020/08/05/qu-kuai-lian-ji-zhu-bi-ji-01/</id>
     <published>2020-08-05T00:11:43.000Z</published>
-    <updated>2020-08-09T18:09:54.383Z</updated>
+    <updated>2020-08-09T18:12:44.750Z</updated>
     
     <summary type="html">
     
@@ -65,9 +65,9 @@
       <category term="数学建模" scheme="https://lionel-hub.github.io/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
     
     
-      <category term="NLP" scheme="https://lionel-hub.github.io/tags/NLP/"/>
-    
       <category term="数学建模" scheme="https://lionel-hub.github.io/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+      <category term="NLP" scheme="https://lionel-hub.github.io/tags/NLP/"/>
     
   </entry>
   
