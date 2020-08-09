@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lionel-hub.github.io/"/>
-  <updated>2020-08-05T19:41:39.808Z</updated>
+  <updated>2020-08-09T18:09:54.383Z</updated>
   <id>https://lionel-hub.github.io/</id>
   
   <author>
@@ -15,6 +15,61 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>区块链技术笔记01</title>
+    <link href="https://lionel-hub.github.io/2020/08/05/qu-kuai-lian-ji-zhu-bi-ji-01/"/>
+    <id>https://lionel-hub.github.io/2020/08/05/qu-kuai-lian-ji-zhu-bi-ji-01/</id>
+    <published>2020-08-05T00:11:43.000Z</published>
+    <updated>2020-08-09T18:09:54.383Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;由于在做的项目需要完成一个区块链产品溯源系统，所以需要学习一些区块链的知识，我就把网课的一些笔记整理到博客上。&lt;/p&gt;
+&lt;p&gt;比特币是一种加密货币crypto-currency,这种货币采用了区块链的方式对每一笔交易记录进行记账，区块链上内容都是公开的，包括区块的地址，转账
+        
+      
+    
+    </summary>
+    
+      <category term="Blockchain" scheme="https://lionel-hub.github.io/categories/Blockchain/"/>
+    
+    
+      <category term="Blockchain" scheme="https://lionel-hub.github.io/tags/Blockchain/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Online Sales Strategies Hidden Behind the Data</title>
+    <link href="https://lionel-hub.github.io/2020/03/12/online-sales-strategies-hidden-behind-the-data/"/>
+    <id>https://lionel-hub.github.io/2020/03/12/online-sales-strategies-hidden-behind-the-data/</id>
+    <published>2020-03-12T09:07:36.000Z</published>
+    <updated>2020-08-09T16:59:48.092Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;In the online marketplace, companies want to use customer reviews, especially the timebased patterns in these data for sentiment
+        
+      
+    
+    </summary>
+    
+      <category term="Articles" scheme="https://lionel-hub.github.io/categories/Articles/"/>
+    
+    
+      <category term="Math modeling" scheme="https://lionel-hub.github.io/tags/Math-modeling/"/>
+    
+      <category term="NLP" scheme="https://lionel-hub.github.io/tags/NLP/"/>
+    
+  </entry>
   
   <entry>
     <title>十大经典排序算法整理汇总（附代码）</title>
